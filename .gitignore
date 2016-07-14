@@ -1,0 +1,6 @@
+/bower_components/
+/node_modules/
+/node/
+/reports/
+/target/
+.DS_Store
